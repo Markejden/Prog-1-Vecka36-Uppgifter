@@ -45,6 +45,8 @@ Två saker att lägga märke till:
 - `71`, `72` och `78` går att lösa med en transformation, men minst två av dem har redan
   en färdig metod med ett eget namn. Vilka? Det svaret vill jag höra.
 
+  .keys . values .invert
+
 ## Så lämnar du in
 
 En mapp per uppgift, med `fore.rb` och `efter.rb`. Överst i `efter.rb`, en till tre
